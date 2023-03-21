@@ -8,5 +8,7 @@ resolvendo conflitos
 
 * Mercurial
 * Git
+* GitLAB
 * Subversion
 * CVS
+Conflito resolvido
